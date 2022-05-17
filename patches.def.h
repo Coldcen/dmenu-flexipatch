@@ -51,7 +51,7 @@
  * line height patch and as such is intended to be combined with these.
  * https://tools.suckless.org/dmenu/patches/emoji-highlight/
  */
-#define EMOJI_HIGHLIGHT_PATCH 0
+#define EMOJI_HIGHLIGHT_PATCH 1
 
 /* This patch make it so that fuzzy matches gets highlighted and is therefore meant
  * to be used together with the fuzzymatch patch.
