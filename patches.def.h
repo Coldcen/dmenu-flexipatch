@@ -42,7 +42,7 @@
  * to the output of that command.
  * https://tools.suckless.org/dmenu/patches/dynamicoptions/
  */
-#define DYNAMIC_OPTIONS_PATCH 0
+#define DYNAMIC_OPTIONS_PATCH 1
 
 /* This patch will allow for emojis on the left side with a colored background when selected.
  * To test this try running:
