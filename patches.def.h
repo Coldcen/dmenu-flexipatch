@@ -241,7 +241,7 @@
 /* This patch changes the behaviour of matched items and the Tab key to allow tab completion.
  * https://tools.suckless.org/dmenu/patches/prefix-completion/
  */
-#define PREFIXCOMPLETION_PATCH 0
+#define PREFIXCOMPLETION_PATCH 1 
 
 /* This patch adds an option -ps to specify an item by providing the index that should be
  * pre-selected.
